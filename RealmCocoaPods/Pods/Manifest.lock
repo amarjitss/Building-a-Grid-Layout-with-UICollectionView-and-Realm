@@ -1,0 +1,32 @@
+PODS:
+  - ABFRealmGridController (1.4.1):
+    - RBQFetchedResultsController (>= 2.4.1)
+    - Realm (>= 0.96.0)
+  - Haneke (1.0.2)
+  - RBQFetchedResultsController (3.0.1):
+    - Realm (>= 0.95)
+  - Realm (0.98.3):
+    - Realm/Headers (= 0.98.3)
+  - Realm/Headers (0.98.3)
+  - RealmNYTStories (1.1):
+    - RBQFetchedResultsController (>= 2.4.1)
+    - Realm (>= 0.96.0)
+  - TOWebViewController (2.2.3):
+    - TOWebViewController/Core (= 2.2.3)
+  - TOWebViewController/Core (2.2.3)
+
+DEPENDENCIES:
+  - ABFRealmGridController (= 1.4.1)
+  - Haneke
+  - RealmNYTStories
+  - TOWebViewController
+
+SPEC CHECKSUMS:
+  ABFRealmGridController: e6b1ad414cfe9650aac95ad892810350dbce2e19
+  Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
+  RBQFetchedResultsController: 4b8a80647859241abdb3da04b486a6ad02dd5093
+  Realm: c6a7d00221a2d5177810a674aebd40c5e0b70b0f
+  RealmNYTStories: 1aadacdae4368d116b9485d1009e3b836c4bda81
+  TOWebViewController: ca47b9aeefe66acb3353d197dc8270338540b116
+
+COCOAPODS: 0.39.0
